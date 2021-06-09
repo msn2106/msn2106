@@ -9,9 +9,9 @@ I'm actively seeking internships and job opportunities.
 
 
 #### About me:
-- 🔭 I’m currently working on ReactJs and Android projects.
+- 🔭 I’m currently working on Android projects.
 - 👯 I’m looking to collaborate on Android, JavaScript and Python Projects.
-- 💬 Ask me about animes and video games.😎
+<!-- - 💬 Ask me about animes and video games.😎 -->
 - 📫 How to reach me: msn2106@gmail.com 🐱‍🏍
 
 <!-- - 😄 Pronouns: ... -->
@@ -19,6 +19,6 @@ I'm actively seeking internships and job opportunities.
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
-| ![Mayank GitHub Statistics](https://github-readme-stats.vercel.app/api?username=msn2106&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msn2106) |
+<!-- | ![Mayank GitHub Statistics](https://github-readme-stats.vercel.app/api?username=msn2106&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msn2106) |
 | --- | --- |
-| ![Mayank GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msn2106) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+| ![Mayank GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msn2106) | ![Jokes Card](https://readme-jokes.vercel.app/api) | -->
