@@ -7,7 +7,7 @@ I am a CSE Graduate skilled in software development, debugging, design, and test
 
 
 #### About me:
-- 🔭 I’m currently working on ASP.NET MVC.
+- 🔭 I’m currently working on Azure API Management.
 <!-- - 👯 I’m looking to collaborate on Android, JavaScript and Python Projects. -->
 <!-- - 💬 Ask me about animes and video games.😎 -->
 - 📫 How to reach me: msn2106@gmail.com 🐱‍🏍
