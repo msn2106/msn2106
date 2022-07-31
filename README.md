@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Mayank!
 
-I am a CSE Graduate skilled in software development, debugging, design, and testing. I'm a strong team player who is able to quickly learn and apply new technologies.
+I am a CSE Graduate skilled in frontend development. I'm a strong team player who is able to quickly learn and apply new technologies.
 
 
 
@@ -14,9 +14,11 @@ I am a CSE Graduate skilled in software development, debugging, design, and test
 
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-<!-- - 🌱 I’m currently learning ... -->
+- 🌱 I’m currently learning ReactJS, NodeJS, NextJS
 <!-- - 🤔 I’m looking for help with ... -->
 
-<!-- | ![Mayank GitHub Statistics](https://github-readme-stats.vercel.app/api?username=msn2106&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msn2106) |
+| ![Mayank GitHub Statistics](https://github-readme-stats.vercel.app/api?username=msn2106&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msn2106) |
 | --- | --- |
-| ![Mayank GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msn2106) | ![Jokes Card](https://readme-jokes.vercel.app/api) | -->
+| ![Mayank GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msn2106)
+
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) | -->
