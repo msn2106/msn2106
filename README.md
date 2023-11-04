@@ -1,5 +1,5 @@
 # 💫 About Me:
-♨ I am currently working on creating a scalable Azure function<br>🛠 I am looking to collaborate on Building a backend for a Full Stack Website<br>📖 I am currently learning Webhooks and Event-Driven Systems<br>☺ Ask me about React, NextJS, NodeJS, and Azure functions<br>🍕 I really enjoy working in a collaborative team and I think my front-end development experience can be a nice add-on to the team. I also have hands-on experience in NodeJS-based backend development.
+♨ I am currently creating MERN Projects<br>🛠 I am looking to collaborate on Building a backend for a Full Stack Website<br>📖 I am currently learning MERN<br>☺ Ask me about React, NextJS, NodeJS, and Azure functions<br>🍕 I like playing video games.
 
 
 ## 🌐 Socials:
