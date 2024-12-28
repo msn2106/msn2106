@@ -128,7 +128,7 @@ Welcome to my GitHub profile! I'm a passionate software developer dedicated to b
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=msn2106&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 
 ### Thank you for visiting my profile! Let's build something amazing together
 
