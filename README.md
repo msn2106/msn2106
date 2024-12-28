@@ -1,6 +1,12 @@
-# 💻 Mayank GitHub Profile
+![Cover Image](https://github.com/user-attachments/assets/f2e36a43-603a-4ec3-885a-66220563fc1e)
 
-Welcome to my GitHub profile! I'm a passionate software developer dedicated to building scalable, efficient, and impactful solutions. Here, you'll find a curated collection of my projects, contributions, and experiments. 
+I am a skilled Senior Software Developer with over three years of experience specializing in building scalable, efficient, and innovative web and cloud-based solutions. My expertise lies in crafting robust architectures and optimizing system performance using modern technologies such as JavaScript, ReactJS, NextJS, NodeJS, and Azure services, including Azure Serverless Functions and Cosmos DB.
+
+Throughout my career, I have played pivotal roles in developing end-to-end software solutions, enhancing user experiences, and improving system efficiency. I have implemented advanced mechanisms such as Single Sign-On (SSO) systems, task-based workflows, and event-driven architectures that significantly boosted scalability and response times. Additionally, I have experience designing automated services that reduce manual effort and streamline complex business processes.
+
+My technical proficiency extends to Redux, Express, GraphQL, Jest, SCSS, and modern UI frameworks like Material UI and Tailwind CSS. I am well-versed in leveraging tools like Postman, Git, Jenkins, and ESLint to ensure quality and reliability in software delivery.
+
+I thrive in collaborative environments, mentoring teams, and translating business needs into technical solutions. Driven by a passion for problem-solving and continuous learning, I am committed to building impactful software that meets evolving industry demands.
 
 ---
 
@@ -122,12 +128,6 @@ Welcome to my GitHub profile! I'm a passionate software developer dedicated to b
 
 ---
 
-### 🖋️ Quote of the Day
-
-[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 
 ### Thank you for visiting my profile! Let's build something amazing together
@@ -170,6 +170,12 @@ Welcome to my GitHub profile! I'm a passionate software developer dedicated to b
 - [Post Title 1](#)
 - [Post Title 2](#)
 - [Post Title 3](#) -->
+
+<!-- ---
+
+### 🖋️ Quote of the Day
+
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes) -->
 
 <!-- ---
 
